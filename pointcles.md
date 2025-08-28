@@ -1,4 +1,4 @@
-Points clés à retenir :
+# Points clés à retenir :
 Priorités de développement suggérées :
 
 Commencer par la Partie 1 (import produits) - c'est la plus simple et elle alimente la base
@@ -18,6 +18,9 @@ Données manquantes dans les fichiers :
 J'ai remarqué que certains prix sont manquants dans les fichiers de ventes (VENTEAS.txt). 
 
 Il faudra soit :
-Récupérer les prix depuis la table PRODUCTS
-Ou corriger les fichiers de données
+Récupérer les prix depuis la table PRODUCTS.
 
+etape 1.
+1- corriger les sql , avec ajout de l'api
+2- executer les sqls
+3- verifier j'ai bien les données dans la bdd
